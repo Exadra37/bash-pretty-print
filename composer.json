@@ -1,8 +1,21 @@
 {
     "name": "exadra37-bash/pretty-print",
-    "description": "All my repositories will have this one as starting point.",
+    "description": "Bash functions to output text with colors to the terminal.",
     "keywords": [
         "Exadra37"
+        "bash",
+        "bash functions",
+        "bash package manager",
+        "bash required packages",
+        "bash bin package installer",
+        "bash pretty print",
+        "bash output",
+        "bash color output",
+        "bash raw color",
+        "bash color print",
+        "bash raw color print",
+        "bash terminal output",
+        "bash console output"
     ],
     "homepage": "https://gitlab.com/exadra37-bash/pretty-print",
     "license": "GPL-3.0",
